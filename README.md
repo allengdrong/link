@@ -13,7 +13,8 @@ https://www.notion.so/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304
 * 자바 강의 - 인프런   
 https://www.inflearn.com/course/java-codesquad#
 
-* 깃 + 이클립스 : [바로가기] [eclipse_git]
+* 깃_이클립스 : [바로가기][eclipse_git]
+
 [eclipse_git]: https://developer0513.tistory.com/category/Git?page=3
 
 * 깃허브 사용법 : [바로가기][usegit]
